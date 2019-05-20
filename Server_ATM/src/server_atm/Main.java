@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package server_atm;
+// package server_atm;
 
 import common_atm.Account;
 import common_atm.User;
@@ -20,6 +20,7 @@ import javax.swing.JOptionPane;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.table.DefaultTableModel;
+import server_atm.Server_ATM;
 
 /**
  *

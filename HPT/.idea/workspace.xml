@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0f5f9a4-88aa-4c3a-8353-f8684e368ca3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Chuyenkhoan$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Chuyenkhoan$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Chuyenkhoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Chuyenkhoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Doimatkhau$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Doimatkhau$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Doimatkhau.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Doimatkhau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/GUI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/GUI$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Guitien$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Guitien$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Guitien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Guitien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Login$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Login$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Ruttien$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Ruttien$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Ruttien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Ruttien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Vantin$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Vantin$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Vantin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/build/classes/client_atm/Vantin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/dist/Client_ATM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/dist/Client_ATM.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/dist/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/dist/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/dist/lib/Common_ATM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/dist/lib/Common_ATM.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/dist/lib/mysql-connector-java-5.1.43-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client_ATM/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client_ATM/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/dist/Common_ATM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/dist/Common_ATM.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/dist/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/dist/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/dist/lib/ConnectDatabase.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/dist/lib/mysql-connector-java-5.1.43-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common_ATM/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Common_ATM/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/build/classes/Connect/Connect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/build/classes/Connect/Connect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/dist/ConnectDatabase.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/dist/ConnectDatabase.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/dist/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/dist/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/dist/lib/mysql-connector-java-5.1.43-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConnectDatabase/src/Connect/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConnectDatabase/src/Connect/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/build/built-jar.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/GUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/GUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Server_ATM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Server_ATM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Taotaikhoan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xemdanhsachtaikhoan$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xemdanhsachtaikhoan$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xemdanhsachtaikhoan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xoataikhoan$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xoataikhoan$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xoataikhoan$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xoataikhoan$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/build/classes/server_atm/Xoataikhoan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/dist/Server_ATM.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/dist/lib/Common_ATM.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/dist/lib/ConnectDatabase.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/dist/lib/mysql-connector-java-5.1.43-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/src/server_atm/Main.form" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/src/server_atm/Main.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server_ATM/src/server_atm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server_ATM/src/server_atm/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/commonatm/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/commondb/Connect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/client/Vantin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/server/Server_ATM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/commonatm/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/client/Main.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/server/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="534" column="11" selection-start-line="534" selection-start-column="11" selection-end-line="534" selection-end-column="11" />
+              <folding>
+                <element signature="e#2367#2456#0" expanded="true" />
+                <element signature="e#6139#6140#0" expanded="true" />
+                <element signature="e#6196#6197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/client/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2595">
+              <caret line="702" column="20" selection-start-line="702" selection-start-column="20" selection-end-line="702" selection-end-column="20" />
+              <folding>
+                <element signature="e#35015#35016#0" expanded="true" />
+                <element signature="e#35074#35075#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bank/client/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DriverManager</find>
+      <find>dbName</find>
+      <find>dbName1</find>
+      <find>id_user</find>
+      <find>rs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/bank/commonatm/Account.java" />
+        <option value="$PROJECT_DIR$/src/com/bank/server/Server_ATM.java" />
+        <option value="$PROJECT_DIR$/src/com/bank/commondb/Connect.java" />
+        <option value="$PROJECT_DIR$/src/com/bank/server/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/../ConnectDatabase/.idea/ConnectDatabase.iml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16__2_.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="48" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HPT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPT" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
+              <item name="commondb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="363" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bank.client.Main" />
+      <module name="HPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bank.server.Main" />
+      <module name="HPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0f5f9a4-88aa-4c3a-8353-f8684e368ca3" name="Default Changelist" comment="" />
+      <created>1557309238413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557309238413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.15681818" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/bank/client/Chuyenkhoan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.sql/java/sql/DriverManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="58" column="29" selection-start-line="57" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/jdk/internal/loader/BuiltinClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/commonatm/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.sql/java/sql/PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="37" lean-forward="true" selection-start-line="14" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.sql/java/sql/Statement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/client/Chuyenkhoan.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/commondb/Connect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/client/Vantin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/server/Server_ATM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/commonatm/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/client/Main.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/client/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="702" column="20" selection-start-line="702" selection-start-column="20" selection-end-line="702" selection-end-column="20" />
+          <folding>
+            <element signature="e#35015#35016#0" expanded="true" />
+            <element signature="e#35074#35075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/server/Main.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/commonatm/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bank/server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="534" column="11" selection-start-line="534" selection-start-column="11" selection-end-line="534" selection-end-column="11" />
+          <folding>
+            <element signature="e#2367#2456#0" expanded="true" />
+            <element signature="e#6139#6140#0" expanded="true" />
+            <element signature="e#6196#6197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -15,7 +15,7 @@ public class Connect {
     public static Connection getMySQLConnection(String dbName) throws SQLException,ClassNotFoundException {
         String hostName = "localhost";
         String userName = "root";
-        String password = "quang";
+        String password = "hoilamchi";
         return getMySQLConnection(hostName, dbName, userName, password);
     }
     public static Connection getMySQLConnection(String hostName, String dbName,
